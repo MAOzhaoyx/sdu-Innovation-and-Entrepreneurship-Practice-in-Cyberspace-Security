@@ -1,6 +1,6 @@
 # sdu-Innovation-and-Entrepreneurship-Practice-in-Cyberspace-Security
 ## sdu-2021-Innovation and Entrepreneurship Practice in Cyberspace Security-project1-22
-### **Project1**: implement the naïve birthday attack of reduced SM3
+### **Project1**: implement the naive birthday attack of reduced SM3
 ### **Project2**: implement the Rho method of reduced SM3
 ### **Project3**: implement length extension attack for SM3, SHA256, etc.
 ### **Project4**: do your best to optimize SM3 implementation (software)
